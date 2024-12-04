@@ -1,0 +1,28 @@
+# VS Code Settings
+.vscode/
+
+# HTML, CSS, and JS
+*.html
+*.htm
+*.css
+*.js
+*.json
+*.jsx
+*.ts
+*.tsx
+
+# HTML, CSS, and JS related assets
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.ico
+
+# Build and distribution files
+dist/
+build/
+public/
+
+# Log files
+*.log
